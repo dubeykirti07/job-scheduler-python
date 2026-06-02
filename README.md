@@ -51,6 +51,4 @@ python async_sync_demo.py
 - Queue Concepts
 - Scheduling Algorithms
 
-## Author
 
-Kirti Dubey
